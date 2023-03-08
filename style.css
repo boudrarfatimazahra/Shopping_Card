@@ -1,0 +1,43 @@
+h1 {
+    text-align: left;
+    border-bottom: #ccbebe 2px solid;
+    color: #362437;
+    margin: 25px;
+    padding-bottom: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    color: #362437;
+    padding: 30px;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2
+}
+
+td {
+    text-align: center;
+}
+
+td input {
+    width: 3%;
+    height: 30px;
+    text-align: center;
+}
+
+td {}
+
+.image {
+    width: 300px;
+    height: 300px;
+}
+
+img {
+    width: 80%;
+    height: 80%;
+}
